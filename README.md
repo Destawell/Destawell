@@ -1,6 +1,7 @@
 # Hi there! I'm Niranj (Destawell) 👋
 
-**Practicing Ethical Hacker | Termux & Android Security Tools Developer**
+**Practicing Ethical Hacker | Termux & Android Security Tools Developer**  
+Trained through Cisco Networking Academy in cybersecurity, ethical hacking, and security analysis.
 
 I build open-source tools for Termux, Kali NetHunter, and Android penetration testing — focused on automation, debugging, and mobile cybersecurity workflows.
 
@@ -15,7 +16,19 @@ I'm a practicing ethical hacker with hands-on experience in:
 - Kali NetHunter setups  
 - Malware analysis (learning phase)  
 
-I have completed cybersecurity training through Cisco, including ethical hacking and junior analyst learning paths.
+I have completed cybersecurity training through Cisco Networking Academy, including ethical hacking and junior cybersecurity analyst learning paths.
+
+---
+
+## 🎓 Certifications & Training
+
+- **Cisco Networking Academy — Ethical Hacking**  
+  🔗 https://www.credly.com/badges/d89785d5-1f2f-47cc-9a18-3affeb6b9fe3/public_url  
+
+- **Cisco Networking Academy — Junior Cybersecurity Analyst**  
+  🔗 https://www.credly.com/badges/4bbc1734-3732-42ca-82af-84a56966dcce/public_url  
+
+> Credentials are publicly verifiable via Credly (official digital credential platform).
 
 ---
 
@@ -91,4 +104,4 @@ Everything I build is focused on real-world usability — especially for mobile-
 
 ## 🔍 Keywords (for search visibility)
 
-Termux tools, Android security, ethical hacking, Kali NetHunter, mobile pentesting, cybersecurity tools, Termux automation, Niranj coder, Destawell
+Termux tools, Android security, ethical hacking, Kali NetHunter, mobile pentesting, cybersecurity tools, Termux automation, Niranj coder, Destawell, Cisco cybersecurity, ethical hacking training
