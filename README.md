@@ -92,8 +92,10 @@ More detailed guides, tools, and research are available on my website.
 
 - Email: niranjmaheswar0@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/niranj-maheswar-0949883b3  
-- Instagram: https://www.instagram.com/_niranj_maheswar_
-
+- Instagram:
+https://www.instagram.com/_niranj_maheswar_?igsh=cDhwbXA5NHowb2Y=
+- Instagram ( Team ) 
+https://www.instagram.com/destawell_off?igsh=MWpweWZmNjZ4ajB5NA==
 ---
 
 ## ⚡ Fun Fact
