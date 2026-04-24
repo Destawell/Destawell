@@ -1,45 +1,94 @@
-# Hi there! I'm Niranj 👋
+# Hi there! I'm Niranj (Destawell) 👋
 
-**Aspiring Security Researcher | Malware Analysis & Labs**
+**Practicing Ethical Hacker | Termux & Android Security Tools Developer**
 
-I love figuring out how things work under the hood and discovering new things as I go!
+I build open-source tools for Termux, Kali NetHunter, and Android penetration testing — focused on automation, debugging, and mobile cybersecurity workflows.
+
+---
+
+## 🧠 About Me
+
+I'm a practicing ethical hacker with hands-on experience in:
+
+- Termux-based environments  
+- Android security & no-root pentesting  
+- Kali NetHunter setups  
+- Malware analysis (learning phase)  
+
+I have completed cybersecurity training through Cisco, including ethical hacking and junior analyst learning paths.
 
 ---
 
 ## 🛡️ What I'm Working On
 
-- **Security Research:** Learning how cybersecurity systems work.
-- **Hands-on Labs:** Most of my experiments are done in Termux.
-- **Automation:** Building small tools to automate tasks.
-- **Learning & Growing:** Always experimenting with new ideas.
+- **Termux Tools:** Scripts to fix errors, automate setups, and improve performance  
+- **Android Pentesting:** Running Kali NetHunter & labs without root  
+- **Cybersecurity Research:** Exploring vulnerabilities and system behavior  
+- **Automation:** Building real-world tools for mobile workflows  
 
 ---
-## GitHub Stats
+
+## 🚀 Featured Projects
+
+- **Termux-fixer** → Fix common Termux issues automatically  
+- **Kali-Termux-Pro** → Run Kali tools on Android (no root)  
+- **Wraith-Scanner** → Lightweight network scanner for Android  
+- **Kali_Critic** → Analyze and debug outputs of Kali Linux tools  
+
+---
+
+## 🧬 Focus Areas
+
+- Termux tools  
+- Android penetration testing  
+- Kali Linux / NetHunter  
+- Cybersecurity automation  
+- Mobile security research  
+
+---
+
+## 👤 Identity
+
+Also known as:
+
+- Niranj-coder (previous username)  
+- Destawell (current)  
+
+Same developer — focused on Termux tools and Android security.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Destawell&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&title_color=ff80ff&icon_color=58A6FF&text_color=c9d1d9" height="195" alt="Niranj's GitHub Stats"/>
-
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Destawell&theme=tokyonight&hide_border=true&border_radius=15&ring=ff80ff&fire=ff80ff&currStreakLabel=ff80ff&sideLabels=ffffff&dates=8b949e&stroke=00000000&background=0d1117" height="195" alt="GitHub Streak"/>
-
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Destawell&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=ff80ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide_progress=false" height="195" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Destawell&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Destawell&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
 </p>
 
 ---
 
-## 📬 Let's Connect
+## 🌐 Website
 
-- **Email:** niranjmaheswar0@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/niranj-maheswar-0949883b3  
-- **Instagram:** https://www.instagram.com/_niranj_maheswar_
+https://destawell-github-io.vercel.app/
+
+More detailed guides, tools, and research are available on my website.
 
 ---
 
-## 🌐 Website 
+## 📬 Connect With Me
 
-https://Destawell-github-io.vercel.app/
+- Email: niranjmaheswar0@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/niranj-maheswar-0949883b3  
+- Instagram: https://www.instagram.com/_niranj_maheswar_
 
-- More info about tools and guides are available on the web..
+---
 
+## ⚡ Fun Fact
+
+Everything I build is focused on real-world usability — especially for mobile-based cybersecurity using Termux.
+
+---
+
+## 🔍 Keywords (for search visibility)
+
+Termux tools, Android security, ethical hacking, Kali NetHunter, mobile pentesting, cybersecurity tools, Termux automation, Niranj coder, Destawell
