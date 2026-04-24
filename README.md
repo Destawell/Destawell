@@ -91,7 +91,7 @@ More detailed guides, tools, and research are available on my website.
 ## 📬 Connect With Me
 
 - Email: niranjmaheswar0@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/destawell-niranj-0949883b3?utm_source=share_via&utm_content=profile&utm_medium=member_android  
+- LinkedIn: https://www.linkedin.com/in/destawell-niranj-0949883b3
 - Instagram:
 https://www.instagram.com/_niranj_maheswar_?igsh=cDhwbXA5NHowb2Y=
 - Instagram ( Team ) 
